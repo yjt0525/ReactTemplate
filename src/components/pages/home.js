@@ -19,6 +19,10 @@ class Manage extends Component {
       <div className="home">
         首页<i className="fa fa-circle"></i>
         <Button type="primary" onClick={this.click.bind(this)}>Hello</Button>
+        <a href="weixin://">打开微信</a>
+        <a href="youku://">打开优酷</a>
+        <a href="alipays://">打败支付宝</a>
+        <a href="baidumap://map/direction?origin=中关村&destination=五道口&mode=driving&region=北京">打开百度地图</a>
       </div>
     );
   }
