@@ -21,7 +21,7 @@
     "file-loader": "^1.1.11",
     "font-awesome": "^4.7.0",
     "font-awesome-webpack": "0.0.5-beta.2",
-    "node-sass": "^4.9.2",
+    "node-sass": "^4.9.3",
     "react-router-dom": "^4.3.1",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.22.0"

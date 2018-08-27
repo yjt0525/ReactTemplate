@@ -23,6 +23,7 @@ class Manage extends Component {
         <a href="youku://">打开优酷</a>
         <a href="alipays://">打败支付宝</a>
         <a href="baidumap://map/direction?origin=中关村&destination=五道口&mode=driving&region=北京">打开百度地图</a>
+        <a href="mailto:yjt15851481743@outlook.com">测试发送邮</a>
       </div>
     );
   }
